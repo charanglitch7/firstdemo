@@ -1,3 +1,3 @@
 # firstdemo
 first repo
-me charan r nayak author
+me charan r nayak author()
